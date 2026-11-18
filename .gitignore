@@ -1,0 +1,31 @@
+# Data files (large CSVs / Parquet — download from Kaggle per README.md)
+data/raw/*.csv
+data/raw/*.zip
+data/raw/*.rar
+data/processed/*.csv
+data/processed/*.parquet
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Saved model binaries and bulk prediction dumps (reproducible via run_pipeline.py)
+outputs/models/*.joblib
+outputs/models/*.json
+outputs/metrics/fc26_predictions_all.csv
