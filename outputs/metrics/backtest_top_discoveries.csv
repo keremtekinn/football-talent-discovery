@@ -1,0 +1,91 @@
+cutoff_year,model,rank,player_id,player_name,pos_group,age,club,scout_ovr,future_max_ovr_4y,hit_82_plus,pred_prob
+2020,XGBoost,1,228093,Marcus Thuram,MID,21,Borussia Mönchengladbach,75,80,0,0.3964
+2020,XGBoost,2,244193,Jovane Cabral,ATT,21,Sporting CP,75,78,0,0.3309
+2020,XGBoost,3,230276,Nicolás Formido,MID,19,Internacional,74,73,0,0.318
+2020,XGBoost,4,239890,Ozan Kabak,DEF,19,Schalke 04,74,77,0,0.3127
+2020,XGBoost,5,236935,Hannes Wolf,MID,20,RB Leipzig,74,73,0,0.3009
+2020,XGBoost,6,241721,Rafael Leão,ATT,20,Milan,75,86,1,0.2926
+2020,XGBoost,7,240976,Marcelo Saracchi,DEF,21,RB Leipzig,75,75,0,0.2854
+2020,XGBoost,8,240740,Callum Hudson-Odoi,ATT,18,Chelsea,74,78,0,0.2836
+2020,XGBoost,9,236920,Justin Kluivert,ATT,20,Roma,75,77,0,0.2829
+2020,XGBoost,10,234574,Diogo Dalot,DEF,20,Manchester United,75,80,0,0.279
+2020,XGBoost,11,238067,Nicolò Zaniolo,MID,19,Roma,74,81,0,0.2781
+2020,XGBoost,12,238227,Krépin Diatta,ATT,20,Club Brugge,75,77,0,0.2771
+2020,XGBoost,13,235883,Ryan Sessegnon,MID,19,Tottenham Hotspur,75,75,0,0.2713
+2020,XGBoost,14,236496,Mattéo Guendouzi,MID,20,Arsenal,75,80,0,0.2693
+2020,XGBoost,15,239231,Marc Cucurella,MID,20,Getafe,75,81,0,0.2683
+2020,Ensemble (XGB+LR+RF),1,243019,Tudor Băluță,MID,20,Brighton & Hove Albion,72,71,0,0.442
+2020,Ensemble (XGB+LR+RF),2,230276,Nicolás Formido,MID,19,Internacional,74,73,0,0.3957
+2020,Ensemble (XGB+LR+RF),3,239744,Michaël Cuisance,MID,19,FC Bayern München,72,73,0,0.3882
+2020,Ensemble (XGB+LR+RF),4,234574,Diogo Dalot,DEF,20,Manchester United,75,80,0,0.3661
+2020,Ensemble (XGB+LR+RF),5,234396,Alphonso Davies,MID,18,FC Bayern München,72,84,1,0.3437
+2020,Ensemble (XGB+LR+RF),6,238067,Nicolò Zaniolo,MID,19,Roma,74,81,0,0.3405
+2020,Ensemble (XGB+LR+RF),7,236496,Mattéo Guendouzi,MID,20,Arsenal,75,80,0,0.3396
+2020,Ensemble (XGB+LR+RF),8,235883,Ryan Sessegnon,MID,19,Tottenham Hotspur,75,75,0,0.3386
+2020,Ensemble (XGB+LR+RF),9,236772,Dominik Szoboszlai,MID,18,Salzburg,74,82,1,0.3357
+2020,Ensemble (XGB+LR+RF),10,230767,Renato Sanches,MID,21,FC Bayern München,75,80,0,0.318
+2020,Ensemble (XGB+LR+RF),11,240740,Callum Hudson-Odoi,ATT,18,Chelsea,74,78,0,0.3138
+2020,Ensemble (XGB+LR+RF),12,239890,Ozan Kabak,DEF,19,Schalke 04,74,77,0,0.3128
+2020,Ensemble (XGB+LR+RF),13,233064,Mason Mount,MID,20,Chelsea,75,84,1,0.3005
+2020,Ensemble (XGB+LR+RF),14,234570,Jota,MID,20,Benfica,72,78,0,0.2972
+2020,Ensemble (XGB+LR+RF),15,239641,Alfa Semedo,MID,21,Nottingham Forest,75,70,0,0.2961
+2021,XGBoost,1,243715,William Saliba,DEF,19,Arsenal,74,87,1,0.4169
+2021,XGBoost,2,241854,Perr Schuurs,DEF,20,Ajax,75,79,0,0.4079
+2021,XGBoost,3,245388,Jean-Clair Todibo,DEF,20,FC Barcelona,75,80,0,0.3752
+2021,XGBoost,4,241721,Rafael Leão,ATT,21,Milan,74,86,1,0.3365
+2021,XGBoost,5,238744,Weston McKennie,MID,21,Juventus,75,80,0,0.3293
+2021,XGBoost,6,241637,Aurélien Tchouaméni,MID,20,Monaco,71,85,1,0.3225
+2021,XGBoost,7,245155,Mohammed Kudus,MID,19,Ajax,75,82,1,0.3223
+2021,XGBoost,8,246104,Ryan Gravenberch,MID,18,Ajax,71,79,0,0.321
+2021,XGBoost,9,242516,Cody Gakpo,MID,21,PSV,74,83,1,0.3083
+2021,XGBoost,10,240740,Callum Hudson-Odoi,ATT,19,Chelsea,74,78,0,0.2961
+2021,XGBoost,11,239956,Myron Boadu,ATT,19,AZ Alkmaar,75,76,0,0.2776
+2021,XGBoost,12,230276,Nicolás Formido,MID,20,Internacional,73,73,0,0.2764
+2021,XGBoost,13,254909,Oscar Dorley,MID,21,Slavia Praha,73,78,0,0.2718
+2021,XGBoost,14,245278,Tomás Tavares,DEF,19,Benfica,73,73,0,0.2667
+2021,XGBoost,15,251804,Sergiño Dest,DEF,19,Ajax,75,79,0,0.2598
+2021,Ensemble (XGB+LR+RF),1,238744,Weston McKennie,MID,21,Juventus,75,80,0,0.3788
+2021,Ensemble (XGB+LR+RF),2,245388,Jean-Clair Todibo,DEF,20,FC Barcelona,75,80,0,0.3742
+2021,Ensemble (XGB+LR+RF),3,245155,Mohammed Kudus,MID,19,Ajax,75,82,1,0.3685
+2021,Ensemble (XGB+LR+RF),4,241854,Perr Schuurs,DEF,20,Ajax,75,79,0,0.3676
+2021,Ensemble (XGB+LR+RF),5,236772,Dominik Szoboszlai,MID,19,Salzburg,75,82,1,0.3336
+2021,Ensemble (XGB+LR+RF),6,243715,William Saliba,DEF,19,Arsenal,74,87,1,0.3259
+2021,Ensemble (XGB+LR+RF),7,244206,Nehuén Pérez,DEF,20,Atlético Madrid,75,76,0,0.3254
+2021,Ensemble (XGB+LR+RF),8,252961,Tanguy Nianzou,DEF,18,FC Bayern München,71,73,0,0.3234
+2021,Ensemble (XGB+LR+RF),9,251804,Sergiño Dest,DEF,19,Ajax,75,79,0,0.3227
+2021,Ensemble (XGB+LR+RF),10,246104,Ryan Gravenberch,MID,18,Ajax,71,79,0,0.3036
+2021,Ensemble (XGB+LR+RF),11,242816,Riqui Puig,MID,20,FC Barcelona,75,78,0,0.2928
+2021,Ensemble (XGB+LR+RF),12,230276,Nicolás Formido,MID,20,Internacional,73,73,0,0.2912
+2021,Ensemble (XGB+LR+RF),13,245278,Tomás Tavares,DEF,19,Benfica,73,73,0,0.289
+2021,Ensemble (XGB+LR+RF),14,247641,Tetê,MID,20,Shakhtar Donetsk,75,76,0,0.2768
+2021,Ensemble (XGB+LR+RF),15,246669,Bukayo Saka,MID,18,Arsenal,75,87,1,0.2768
+2022,XGBoost,1,251805,Jurriën Timber,DEF,20,Ajax,75,82,1,0.3953
+2022,XGBoost,2,241854,Perr Schuurs,DEF,21,Ajax,74,79,0,0.3922
+2022,XGBoost,3,251517,Joško Gvardiol,DEF,19,RB Leipzig,75,84,1,0.387
+2022,XGBoost,4,251470,Charles De Ketelaere,ATT,20,Club Brugge,75,82,1,0.3783
+2022,XGBoost,5,256790,Jamal Musiala,MID,18,FC Bayern München,75,88,1,0.3243
+2022,XGBoost,6,258826,Devyne Rensch,DEF,18,Ajax,73,75,0,0.2965
+2022,XGBoost,7,252017,Flavius Daniliuc,DEF,20,Nice,73,74,0,0.2903
+2022,XGBoost,8,246875,Odilon Kossounou,DEF,20,Bayer 04 Leverkusen,73,81,0,0.2867
+2022,XGBoost,9,230918,Trevoh Chalobah,DEF,21,Chelsea,73,79,0,0.2864
+2022,XGBoost,10,239970,Paulinho,MID,20,Bayer 04 Leverkusen,73,75,0,0.282
+2022,XGBoost,11,247246,Khéphren Thuram,MID,20,Nice,74,81,0,0.2721
+2022,XGBoost,12,251810,Brian Brobbey,ATT,19,RB Leipzig,73,79,0,0.2706
+2022,XGBoost,13,248573,Junior Dina Ebimbe,MID,20,Paris Saint Germain,72,76,0,0.2696
+2022,XGBoost,14,242434,Curtis Jones,MID,20,Liverpool,73,80,0,0.2646
+2022,XGBoost,15,239744,Michaël Cuisance,MID,21,FC Bayern München,73,72,0,0.2614
+2022,Ensemble (XGB+LR+RF),1,256790,Jamal Musiala,MID,18,FC Bayern München,75,88,1,0.4887
+2022,Ensemble (XGB+LR+RF),2,251517,Joško Gvardiol,DEF,19,RB Leipzig,75,84,1,0.4568
+2022,Ensemble (XGB+LR+RF),3,241854,Perr Schuurs,DEF,21,Ajax,74,79,0,0.3794
+2022,Ensemble (XGB+LR+RF),4,251805,Jurriën Timber,DEF,20,Ajax,75,82,1,0.356
+2022,Ensemble (XGB+LR+RF),5,259233,Ilaix Moriba,MID,18,RB Leipzig,73,78,0,0.3492
+2022,Ensemble (XGB+LR+RF),6,251570,Rayan Cherki,ATT,17,Olympique Lyonnais,73,81,0,0.3433
+2022,Ensemble (XGB+LR+RF),7,251470,Charles De Ketelaere,ATT,20,Club Brugge,75,82,1,0.3358
+2022,Ensemble (XGB+LR+RF),8,248573,Junior Dina Ebimbe,MID,20,Paris Saint Germain,72,76,0,0.3211
+2022,Ensemble (XGB+LR+RF),9,247328,Unai Vencedor,MID,20,Athletic Club,75,77,0,0.3097
+2022,Ensemble (XGB+LR+RF),10,253306,Manuel Ugarte,MID,20,Sporting CP,72,81,0,0.3031
+2022,Ensemble (XGB+LR+RF),11,258826,Devyne Rensch,DEF,18,Ajax,73,75,0,0.3003
+2022,Ensemble (XGB+LR+RF),12,257073,Tiago Tomás,ATT,19,Sporting CP,74,76,0,0.2991
+2022,Ensemble (XGB+LR+RF),13,246174,Harvey Elliott,ATT,18,Liverpool,73,78,0,0.2956
+2022,Ensemble (XGB+LR+RF),14,239744,Michaël Cuisance,MID,21,FC Bayern München,73,72,0,0.2793
+2022,Ensemble (XGB+LR+RF),15,242434,Curtis Jones,MID,20,Liverpool,73,80,0,0.2785
